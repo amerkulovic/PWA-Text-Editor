@@ -13,4 +13,4 @@ A text editor that is a progressive web application and can be downloaded locall
 
 ## Link
 
-[Text Editor]()
+[Text Editor](https://text-editor-ak01.herokuapp.com/)
